@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe.config
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.pdb
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.pdb
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csproj.AssemblyReference.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csproj.SuggestedBindingRedirects.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Form1.resources
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Properties.Resources.resources
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csproj.GenerateResource.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csproj.CoreCompileInputs.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.exe
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.pdb
